@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "https://jzambrano12.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css",
+    "main.js": "https://jzambrano12.github.io/task-management-frontend/static/js/main.b350005e.chunk.js",
+    "main.js.map": "https://jzambrano12.github.io/task-management-frontend/static/js/main.b350005e.chunk.js.map",
+    "runtime~main.js": "https://jzambrano12.github.io/task-management-frontend/static/js/runtime~main.f8d58e1e.js",
+    "runtime~main.js.map": "https://jzambrano12.github.io/task-management-frontend/static/js/runtime~main.f8d58e1e.js.map",
+    "static/js/2.9c9611f1.chunk.js": "https://jzambrano12.github.io/task-management-frontend/static/js/2.9c9611f1.chunk.js",
+    "static/js/2.9c9611f1.chunk.js.map": "https://jzambrano12.github.io/task-management-frontend/static/js/2.9c9611f1.chunk.js.map",
+    "index.html": "https://jzambrano12.github.io/task-management-frontend/index.html",
+    "precache-manifest.2e6f85340881329f5ea87a0cdffa9573.js": "https://jzambrano12.github.io/task-management-frontend/precache-manifest.2e6f85340881329f5ea87a0cdffa9573.js",
+    "service-worker.js": "https://jzambrano12.github.io/task-management-frontend/service-worker.js",
+    "static/css/main.5ac26d30.chunk.css.map": "https://jzambrano12.github.io/task-management-frontend/static/css/main.5ac26d30.chunk.css.map"
+  }
+}
